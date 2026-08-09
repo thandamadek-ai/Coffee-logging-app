@@ -1,0 +1,77 @@
+#frontend links to webpage - html css
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Add a brew</h1>
+
+#beans
+<form action="/action_page.php">
+  <label for="bns">Beans:</label><br>
+  <input type="text" id="bns" name="bns"><br>
+
+#name inside
+<p>method</p> select a method
+
+<form action="/action_page.php">
+  <label for="mth">Method:</label><br>
+  <input type="text" id="mth" name="mth" value="Select a method"><br>
+
+form action="/action_page.php">
+  <input list="mth" name="mth">
+  <datalist id="mth">
+    <option value="Aeropress">
+    <option value="Drip coffee">
+    <option value="V60">
+
+    </option>
+  </datalist>
+  <input type="submit" value="Submit">
+</form>
+
+<p>coffee grams</p>
+<form action="/action_page.php">
+  <label for="cfg">Coffee grams:</label><br>
+  <input type="text" id="cfg" name="cfg"><br>
+
+<p>water grams </p>
+<form action="/action_page.php">
+  <label for="wtgr">Water grams:</label><br>
+  <input type="text" id="wtgr" name="wtgr"><br>
+
+#name inside
+<p>Rating (out of 5)</p> 0
+
+#name in input
+<form action="/action_page.php">
+  <br>
+  <input type="text" id="rtng" name="rtng" value="Rating"><br>
+
+  #list attributes
+<form action="/action_page.php">
+  <input list="rtng" name="rtng">
+  <datalist id="rtng">
+    <option value="0">
+    <option value="1">
+    <option value="3">
+    <option value="4">
+    <option value="5">
+
+    </option>
+  </datalist>
+  <input type="submit" value="Submit">
+</form>
+
+
+<p>tasting notes</p>
+<form action="/action_page.php">
+  <label for="tsgnt">Tasting notes:</label><br>
+  <input type="text" id="tsgnt" name="tsgnt"><br>
+
+
+<button>save</button>
+
+</body>
+</html>

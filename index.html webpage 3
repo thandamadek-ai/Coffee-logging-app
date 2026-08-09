@@ -1,0 +1,106 @@
+# frontend link to webpage - html css
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Edit a brew</h1>
+
+#name inside box
+<p>beans</p>
+zimbabwean highlands
+
+<form action="/action_page.php">
+  <label for="bns">Beans:</label><br>
+  <input type="text" id="bns" name="bns" value="Zimbabwean highlands"><br>
+
+#name inside
+<p>method</p> select a method
+
+<form action="/action_page.php">
+  <label for="mth">Method:</label><br>
+  <input type="text" id="mth" name="mth" value="Aeropress"><br>
+
+form action="/action_page.php">
+  <input list="mth" name="mth">
+  <datalist id="mth">
+    <option value="Aeropress">
+    <option value="Drip coffee">
+    <option value="V60">
+
+    </option>
+  </datalist>
+  <input type="submit" value="Submit">
+</form>
+
+#name inside box
+<p>coffee grams</p>
+15
+<form action="/action_page.php">
+  <label for="cf">Coffee:</label><br>
+  <input type="text" id="cf" name="cf" value="15"><br>
+
+
+#name inside box
+<p>water grams </p>
+200
+<form action="/action_page.php">
+  <label for="wg">Water grams:</label><br>
+  <input type="text" id="wg" name="wg" value="200"><br>
+
+#name inside
+<p>Rating (out of 5)</p> 0
+
+#name in input
+<form action="/action_page.php">
+  <br>
+  <input type="text" id="rtng" name="rtng" value="Rating"><br>
+
+  #list attributes
+<form action="/action_page.php">
+  <input list="rtng" name="rtng">
+  <datalist id="rtng">
+    <option value="0">
+    <option value="1">
+    <option value="3">
+    <option value="4">
+    <option value="5">
+
+    </option>
+  </datalist>
+  <input type="submit" value="Submit">
+</form>
+
+#name inside box
+<p>tasting notes</p>
+heavy body soft finish nutty
+
+<form action="/action_page.php">
+  <label for="tn">Tasting notes:</label><br>
+  <input type="text" id="tn" name="tn" value="heavy body soft finish nutty"><br>
+
+
+# delete brew by making a delete modal
+<button onclick="document.getElementById('id01').style.display='block'">Open Modal</button>
+
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+  <form class="modal-content" action="/action_page.php">
+    <div class="container">
+      <h1>Delete brew choice</h1>
+      <p>Are you sure you want to delete your choice of brew?</p>
+
+      <div class="clearfix">
+        <button type="button" class="cancelbtn">Cancel</button>
+        <button type="button" class="deletebtn">Delete</button>
+      </div>
+    </div>
+  </form>
+</div>
+
+ 
+<button>save</button>
+
+</body>
+</html>
