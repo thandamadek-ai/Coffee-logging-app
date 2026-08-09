@@ -13,12 +13,12 @@
 #name in input
 <form action="/action_page.php">
   <br>
-  <input type="text" id="fbm" name="fbm" value="filter by method"><br>
+  <input type="text" id="filter by method" name="filter by method" value="filter by method"><br>
 
   #list attributes
 <form action="/action_page.php">
-  <input list="fbm" name="fbm">
-  <datalist id="fbm">
+  <input list="filter by method" name="filter by method">
+  <datalist id="filter by method">
     <option value="Aeropress">
     <option value="Drip coffee">
     <option value="V60">
@@ -36,7 +36,7 @@
 <p class="one"> 15g</p>
 <p class="one"> 200g</p>
 
-<button onclick="link_to_edit brew='default.asp'">Edit</button>
+<button onclick="document.location='default.asp'">Edit brew</button>
 
 
 <p>5 Nigerian dark roast</p>
@@ -44,14 +44,14 @@
 <p class="one"> 10g</p>
 <p class="one"> 120g</p>
 
-<button onclick="link_to_edit brew='default.asp'">Edit</button>
+<button onclick="document.location='default.asp'">Edit brew</button>
 
 <p>1 italian decaf</p>
 <p class="one">v60</p>
 <p class="one">20g</p>
 <p class="one">180g</p>
 
-<button onclick="link_to_edit brew='default.asp'">Edit</button>
+<button onclick="document.location='default.asp'">Edit brew</button>
 
 </body>
 </html>
