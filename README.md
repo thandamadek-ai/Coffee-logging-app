@@ -24,7 +24,7 @@ I then drew up a system:
 6) i then coded the const function for requesting data from the backend
 
 References 
-1) https://www.w3schools.com/ helped with html css
+1) https://www.w3schools.com/ helped with html css Date accessed 8 August 2026
 2) https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
 3) Title: Code a frontend and backend in under 1 hour helped with creating the code for the backend request link https://www.youtube.com/watch?v=ApF5MHh3GUI Date accessed 10 August 
 4) Title JSON APIs for Beginners: Build a REST API with Express helped in creating the api and its format link (https://www.youtube.com/watch?v=mlgd7JlviH0) Date accessed 10 August
@@ -35,7 +35,7 @@ References
 9) https://www.w3schools.com/html/html_form_attributes_form.asp these two helped with making the inputs and the lists
 10) https://www.w3schools.com/whatis/whatis_css.asp helped with the styling
 11) https://www.w3schools.com/howto/howto_js_filter_elements.asp helped with filtering elements
-12) Title Install ReactJS on Windows link: https://www.geeksforgeeks.org/installation-guide/how-to-install-reactjs-on-windows/ helped with downloading react Date accessed 9 August 2026
+12) Title Install ReactJS on Windows Geeks for Geeks link: https://www.geeksforgeeks.org/installation-guide/how-to-install-reactjs-on-windows/ helped with downloading react Date accessed 9 August 2026
 13) Title Node.js - Install node.js Link https://nodejs.org/en/download/current helped with downloading node date accessed 9 August 2026
 14) Title: PostgreSQL: Windows Installers link https://www.postgresql.org/download/windows/ I am not sure what its function was Date accessed 26 July 2026
 15) Title: Connect frontend and backend | React JS, Node JS, Express | Send data from backend to frontend | APIhttps://www.youtube.com/watch?v=OgYKAI38JvY&list=LL&index=1 helped with the code for creating backend and front end
