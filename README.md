@@ -11,4 +11,15 @@ Problems encountered:
 2) I struggled with going to different guides for writing codes. It took up a lot of my time
 3) I coded the create the input list attributes but it did not show on the webpages
 4) I attempted to create a json file
-5) In complete - css styling 
+5) Incomplete - css styling
+6) I had trouble with connecting the front end to the back end
+
+I stuggled to figure out what a backend would look like in aplication
+I then drew up a system:
+1) install essential packages - postgresql, node.js.  and flask with me asking google Gemini how to properly manually install them
+2) the frontend was designed first using html and the ws3 website https://www.w3schools.com/html/html_intro.asp
+3) css was created with help from the website link https://www.w3schools.com/css/default.asp
+4) I then created a json file for the database
+5) I then did the backend  
+
+
