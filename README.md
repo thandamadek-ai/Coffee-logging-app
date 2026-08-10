@@ -24,7 +24,7 @@ I then drew up a system:
 6) i then coded the const function for requesting data from the backend
 
 References
-1) https://www.w3schools.com/ 
+1) https://www.w3schools.com/ helped with html css
 2) https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
 3) https://www.youtube.com/watch?v=ApF5MHh3GUI&list=LL&index=4 helped with creating the code for the backend request
 4) https://www.youtube.com/watch?v=mlgd7JlviH0&list=LL&index=3 helped in creating the api and its format
