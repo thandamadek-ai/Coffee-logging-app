@@ -24,10 +24,15 @@ I then drew up a system:
 6) i then coded the const function for requesting data from the backend
 
 References
-https://www.w3schools.com/ 
-https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
-https://www.youtube.com/watch?v=ApF5MHh3GUI&list=LL&index=4 helped with creating the code for the backend request
-https://www.youtube.com/watch?v=mlgd7JlviH0&list=LL&index=3 helped in creating the api and its format
-https://www.youtube.com/watch?v=n4orudncbTs&list=LL&index=2 helped with creating an API in flask and i got the code from there 
-https://www.youtube.com/watch?v=C_vv1D5oDZ0&list=LL&index=1 assisted in obtaining data from the background
+1) https://www.w3schools.com/ 
+2) https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
+3) https://www.youtube.com/watch?v=ApF5MHh3GUI&list=LL&index=4 helped with creating the code for the backend request
+4) https://www.youtube.com/watch?v=mlgd7JlviH0&list=LL&index=3 helped in creating the api and its format
+5) https://www.youtube.com/watch?v=n4orudncbTs&list=LL&index=2 helped with creating an API in flask and i got the code from there 
+6) https://www.youtube.com/watch?v=C_vv1D5oDZ0&list=LL&index=1 assisted in obtaining data from the background
+7) https://www.w3schools.com/html/html_buttons.asp helped to create html buttons
+8) https://www.w3schools.com/html/html_form_attributes.asp 
+9) https://www.w3schools.com/html/html_form_attributes_form.asp these two helped with making the inputs and the lists
+10) https://www.w3schools.com/whatis/whatis_css.asp helped with the styling
+11) https://www.w3schools.com/howto/howto_js_filter_elements.asp helped with filtering elements
 
