@@ -20,6 +20,14 @@ I then drew up a system:
 2) the frontend was designed first using html and the ws3 website https://www.w3schools.com/html/html_intro.asp
 3) css was created with help from the website link https://www.w3schools.com/css/default.asp
 4) I then created a json file for the database
-5) I then did the backend  
+5) I then did the backend by creating a request system for the database
+6) i then coded the const function for requesting data from the backend
 
+References
+https://www.w3schools.com/ 
+https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
+https://www.youtube.com/watch?v=ApF5MHh3GUI&list=LL&index=4 helped with creating the code for the backend request
+https://www.youtube.com/watch?v=mlgd7JlviH0&list=LL&index=3 helped in creating the api and its format
+https://www.youtube.com/watch?v=n4orudncbTs&list=LL&index=2 helped with creating an API in flask and i got the code from there 
+https://www.youtube.com/watch?v=C_vv1D5oDZ0&list=LL&index=1 assisted in obtaining data from the background
 
