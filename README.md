@@ -23,19 +23,21 @@ I then drew up a system:
 5) I then did the backend by creating a request system for the database
 6) i then coded the const function for requesting data from the backend
 
-References
+References 
 1) https://www.w3schools.com/ helped with html css
 2) https://dashboard.render.com/oauth/github?code=728ba539a26b3b4d43b5&state=d1638ab6-15ab-4877-a5bd-eb90a4f056d2
-3) https://www.youtube.com/watch?v=ApF5MHh3GUI&list=LL&index=4 helped with creating the code for the backend request
-4) https://www.youtube.com/watch?v=mlgd7JlviH0&list=LL&index=3 helped in creating the api and its format
-5) https://www.youtube.com/watch?v=n4orudncbTs&list=LL&index=2 helped with creating an API in flask and i got the code from there 
-6) https://www.youtube.com/watch?v=C_vv1D5oDZ0&list=LL&index=1 assisted in obtaining data from the background
+3) Title: Code a frontend and backend in under 1 hour helped with creating the code for the backend request link https://www.youtube.com/watch?v=ApF5MHh3GUI Date accessed 10 August 
+4) Title JSON APIs for Beginners: Build a REST API with Express helped in creating the api and its format link (https://www.youtube.com/watch?v=mlgd7JlviH0) Date accessed 10 August
+5) Title: Create CRUD API in FLASK Tutorial - (Easy for Beginners) helped with creating an API in flask and i got the code from there Link https://www.youtube.com/watch?v=n4orudncbTs Date accessed 10 August
+6) Title: Getting Data from the Backend (Node.js/Express) to the Frontend (JavaScript) assisted in obtaining data from the background link: https://www.youtube.com/watch?v=C_vv1D5oDZ0 Date accessed 10 August 2026
 7) https://www.w3schools.com/html/html_buttons.asp helped to create html buttons
 8) https://www.w3schools.com/html/html_form_attributes.asp 
 9) https://www.w3schools.com/html/html_form_attributes_form.asp these two helped with making the inputs and the lists
 10) https://www.w3schools.com/whatis/whatis_css.asp helped with the styling
 11) https://www.w3schools.com/howto/howto_js_filter_elements.asp helped with filtering elements
-12) https://www.geeksforgeeks.org/installation-guide/how-to-install-reactjs-on-windows/ helped with downloading react
-13) https://nodejs.org/en/download/current helped with downloading node
-14) https://www.postgresql.org/download/windows/ I am not sure what its function was
+12) Title Install ReactJS on Windows link: https://www.geeksforgeeks.org/installation-guide/how-to-install-reactjs-on-windows/ helped with downloading react Date accessed 9 August 2026
+13) Title Node.js - Install node.js Link https://nodejs.org/en/download/current helped with downloading node date accessed 9 August 2026
+14) Title: PostgreSQL: Windows Installers link https://www.postgresql.org/download/windows/ I am not sure what its function was Date accessed 26 July 2026
+15) Title: Connect frontend and backend | React JS, Node JS, Express | Send data from backend to frontend | APIhttps://www.youtube.com/watch?v=OgYKAI38JvY&list=LL&index=1 helped with the code for creating backend and front end
+Date accessed: 10 August 2026
 
